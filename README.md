@@ -7,6 +7,8 @@ https://www.census.gov/geo/reference/codes/cou.html
 http://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
 
 ### Tony McGovern 2016 Presidential General Election
+### NOTE: Unofficial results scraped from TownHall 
+### Each secretary of state has a different date for official certification.
 https://github.com/tonmcg/County_Level_Election_Results_12-16
 http://townhall.com/election/2016/president/
 
@@ -36,6 +38,7 @@ http://www.american.edu/spa/ccps/Data-Sets.cfm
 
 ### Daily Kos 2012, 2008 by congressional district
 https://docs.google.com/spreadsheets/d/146z3cDVx5WGCprbKGFSMeGfyTFfIlE8SbjrLQ0sfkBI/edit#gid=0
+
 AL 2012 CD
 https://docs.google.com/spreadsheets/d/1j5hEdSbktL6p4lSy5IPx5SwtSwI2A72ZdXyf0YaUtp0/edit#gid=0
 
