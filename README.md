@@ -1,4 +1,4 @@
-# Presidential General Elections 2000, 04, 08, 12, 2016 
+# Presidential General Elections 2000 through 2016 
 
 * Transformed data for 2000 through 2016 is in the output folder.
 * The data folder contains some of the original data.
