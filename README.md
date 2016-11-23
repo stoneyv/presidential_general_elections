@@ -16,6 +16,7 @@ http://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
 ### Tony McGovern 2016 Presidential General Election (unofficial results)
 NOTE: Alaska vote entries for 2016 are currently repeated state totals. This will be resolved soon.  Also, Each secretary of state has a different date for official certification of elections which occurs before the electoral college vote in December.
 https://github.com/tonmcg/County_Level_Election_Results_12-16
+
 http://townhall.com/election/2016/president/
 
 ### USGS 2012 Presidential General Election
