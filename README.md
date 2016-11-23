@@ -1,6 +1,6 @@
-# presidential_general_elections
+# Presidential General Elections 2000, 04, 08, 12, 2016 
 
-* Transformed data is in the output folder.
+* Transformed data for 2000 through 2016 is in the output folder.
 * The data folder contains some of the original data.
 * Only some of the data is included, but all data sources are cited below.
 * The transformation of data may be replicated using the jupyter ipython notebooks.
