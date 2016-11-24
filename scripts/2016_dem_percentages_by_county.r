@@ -27,15 +27,15 @@ results_16 <- fread('../output/2016_pres_election_by_county.csv')
 #
 results <- results_16 %>%
            filter(STATE_ABBR != 'AK') %>%
-           mutate(value=PERCENT_REP) %>%
+           mutate(value=PERCENT_DEM) %>%
            select(region=FIPS, value)
 
 us_county_map <- CountyChoropleth$new(results)
 
 # Setting a brewer color scale for fill values
 us_county_map$ggplot_scale <- scale_fill_brewer(name = '% Republica\n Votes',
-                                                palette = 'Reds',
+                                                palette = 'Blues',
                                                 drop=FALSE)
 
-us_county_map$title = 'US 2016 Presidential General Election\n Republican Vote Percentages by County'
+us_county_map$title = 'US 2016 Presidential General Election\n Democrat Vote Percentages by County'
 us_county_map$render()
