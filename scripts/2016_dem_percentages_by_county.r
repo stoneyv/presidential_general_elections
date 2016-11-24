@@ -33,7 +33,7 @@ results <- results_16 %>%
 us_county_map <- CountyChoropleth$new(results)
 
 # Setting a brewer color scale for fill values
-us_county_map$ggplot_scale <- scale_fill_brewer(name = '% Republica\n Votes',
+us_county_map$ggplot_scale <- scale_fill_brewer(name = '% Democrat\n Votes',
                                                 palette = 'Blues',
                                                 drop=FALSE)
 
