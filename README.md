@@ -7,6 +7,11 @@
 * The scripts folder contains R based code that produce plots.
 * The images folder contains plots that were produced with the scripts or notebooks.
 
+<p align="left">
+  <img src="plots/2016_rep_percentages_by_county.png" width="350"/>
+  <img src="plots/2016_dem_percentages_by_county.png" width="350"/>
+</p>
+
 ## Data Sources
 
 ### Census 2010 FIPS
