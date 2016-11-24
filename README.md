@@ -1,6 +1,6 @@
-# presidential_general_elections
+# Presidential General Elections 2000 through 2016 
 
-* Transformed data is in the output folder.
+* Transformed data for 2000 through 2016 is in the output folder.
 * The data folder contains some of the original data.
 * Only some of the data is included, but all data sources are cited below.
 * The transformation of data may be replicated using the jupyter ipython notebooks.
@@ -14,8 +14,9 @@ https://www.census.gov/geo/reference/codes/cou.html
 http://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
 
 ### Tony McGovern 2016 Presidential General Election (unofficial results)
-### Each secretary of state has a different date for official certification.
+NOTE: Alaska vote entries for 2016 are currently repeated state totals. This will be resolved soon.  Also, Each secretary of state has a different date for official certification of elections which occurs before the electoral college vote in December.
 https://github.com/tonmcg/County_Level_Election_Results_12-16
+
 http://townhall.com/election/2016/president/
 
 ### USGS 2012 Presidential General Election
