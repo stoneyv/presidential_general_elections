@@ -1,5 +1,10 @@
 # Presidential General Elections 2000 through 2016 
 
+To get the transformed data and scripts
+```bash
+git clone https://github.com/stoneyv/presidential_general_elections.git
+```
+
 * Transformed data for 2000 through 2016 is in the output folder.
 * The data folder contains some of the original data.
 * Only some of the data is included, but all data sources are cited below.
@@ -7,9 +12,9 @@
 * The scripts folder contains R based code that produce plots.
 * The images folder contains plots that were produced with the scripts or notebooks.
 
-<p align="left">
-  <img src="plots/2016_rep_percentages_by_county.png" width="350"/>
-  <img src="plots/2016_dem_percentages_by_county.png" width="350"/>
+<p align="center">
+  <img src="plots/2016_rep_percentages_by_county.png" width="360"/>
+  <img src="plots/2016_dem_percentages_by_county.png" width="360"/>
 </p>
 
 ## Data Sources
