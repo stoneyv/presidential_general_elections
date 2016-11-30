@@ -80,8 +80,17 @@ http://www.electproject.org/home/voter-turnout/voter-turnout-data
 http://www.electproject.org/2016g
 https://docs.google.com/spreadsheets/d/1VAcF0eJ06y_8T4o2gvIL4YcyQy8pxb1zYkgXF76Uu1s/edit#gid=2030096602
 
-### Census voter demographics 2012
-http://www.census.gov/data/tables/2012/demo/voting-and-registration/p20-568.html
+### Census voter demographics 2004,2008,2012,2014
+2014  
+http://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-577.html  
+2012  
+http://www.census.gov/data/tables/2012/demo/voting-and-registration/p20-568.html  
+2008 pdf  
+http://www.census.gov/prod/2010pubs/p20-562.pdf   
+2004 pdf  
+http://www.census.gov/prod/2006pubs/p20-556.pdf  
+2000 pdf with supplement  
+https://www.census.gov/prod/techdoc/cps/cpsnov00.pdf  
 
 ### Princeton 2016 Election Polling data  
 http://election.princeton.edu/code/data/  
