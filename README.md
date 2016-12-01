@@ -80,7 +80,7 @@ http://www.electproject.org/home/voter-turnout/voter-turnout-data
 http://www.electproject.org/2016g
 https://docs.google.com/spreadsheets/d/1VAcF0eJ06y_8T4o2gvIL4YcyQy8pxb1zYkgXF76Uu1s/edit#gid=2030096602
 
-### Census voter demographics 2004,2008,2012,2014
+### Census voter demographics by region 2004,2008,2012,2014
 2014  
 http://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-577.html  
 2012  
@@ -89,8 +89,14 @@ http://www.census.gov/data/tables/2012/demo/voting-and-registration/p20-568.html
 http://www.census.gov/prod/2010pubs/p20-562.pdf   
 2004 pdf  
 http://www.census.gov/prod/2006pubs/p20-556.pdf  
-2000 pdf with supplement  
-https://www.census.gov/prod/techdoc/cps/cpsnov00.pdf  
+
+### Voter Registration Statistics
+Michigan 1998 through 2014  
+http://www.michigan.gov/sos/0,8611,7-127-1633_8722---,00.html  
+Pennsylvania 1995 through 2015, missing 2011  
+http://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/Annual-Reports-on-Voter-Registration.aspx  
+Wisconsin 2008 through 2015  
+http://elections.wi.gov/elections-voting/statistics  
 
 ### Princeton 2016 Election Polling data  
 http://election.princeton.edu/code/data/  
