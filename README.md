@@ -6,6 +6,8 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 ```
 
 * Transformed data for 2000 through 2016 is in the output folder.
+* Transformed data uses USGS for 2004, 2008,and 2012. 
+* Transformed data uses Federal Elections Project for 2000.  
 * Alaskan data is not satisfactory. Resolving boroughs from precinct/district data.
 * The source of original data is cited and some of the data is in the data/ folder.
 * The transformation of data may be replicated using the jupyter ipython notebooks.
@@ -19,6 +21,10 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 <p align="center">
   <img src="plots/2012_rep_percentages_by_county.png" width="360"/>
   <img src="plots/2012_dem_percentages_by_county.png" width="360"/>
+</p>
+Combined plot is a work in progress.  
+<p align="left">
+  <img src="plots/2016_combined_percentages_by_county.png" width="360"/>
 </p>
 
 ## Data Sources
