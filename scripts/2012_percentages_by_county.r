@@ -9,8 +9,8 @@ setwd('/home/stoney/Desktop/presidential_elections/scripts')
 getwd()
 
 # Read shapefile from census 
-us_map <- readOGR(dsn= "../data/cb_2015_us_county_500k",
-                  layer = "cb_2015_us_county_500k")
+us_map <- readOGR(dsn= "../data/cb_2013_us_county_500k",
+                  layer = "cb_2013_us_county_500k")
 
 # Remove polygons outside of continental US
 # https://www.datascienceriot.com/mapping-us-counties-in-r-with-fips/kris/
@@ -31,17 +31,17 @@ us_map <- us_map[!us_map$STATEFP %in% c("81", "84", "86", "87",
 county_map_df <- fortify(us_map, region="GEOID")
 
 # Combine winner of each county into one vector w/
-# a range extended to [-1,1] to render red and blue fill
+# a range extended to [-100,100] to render red and blue fill
 #
 combine <- function(PERCENT_DEM, PERCENT_REP){
     num_rows = length(PERCENT_DEM)
     combined <- rep(0,num_rows)
     for(i in 1:num_rows){
         if( PERCENT_DEM[i] > PERCENT_REP[i]){
-          combined[i] <- PERCENT_DEM[i] * 100.0
+          combined[i] <- PERCENT_DEM[i] * 1
         }
         else if( PERCENT_DEM[i] < PERCENT_REP[i]){
-          combined[i] <- PERCENT_REP[i] * -100.0
+          combined[i] <- PERCENT_REP[i] * -1
         }
         else {
           combined[i] <- 0
@@ -50,14 +50,14 @@ combine <- function(PERCENT_DEM, PERCENT_REP){
     return(combined)
 }
 
-# Load transformed results for 2016
-results_16 <- fread('../output/2016_pres_election_by_county.csv')
+# Load transformed results for 2012
+results_12 <- fread('../output/2012_pres_election_by_county.csv')
 
 # Using dpylr to remove AK rows and create combined percentages column
 # https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html
 # https://cran.r-project.org/web/packages/dplyr/dplyr.pdf
 #
-county_data <- results_16 %>%
+county_data <- results_12 %>%
                filter(STATE_ABBR != 'AK') %>%
                mutate(value=combine(PERCENT_DEM, PERCENT_REP)) %>%
                select(id=FIPS, value, PERCENT_DEM)
@@ -99,12 +99,10 @@ m0 <- ggplot() + geom_map(data=county_map_df, map=county_map_df,
         scale_fill_gradientn(colors = c("red", "blue"),
                              guide=guide_legend(title="% Votes")) +
         coord_map("polyconic") +
-        labs(title = "US 2016 Presidential General Election\nVote Percentages by County") + 
-        theme_minimal 
-
-
+        labs(title = "US 2012 Presidential General Election\nVote Percentages by County") +
+        theme_minimal
 
 ggsave(m0,
-       file = "../plots/2016_combined_percentages_by_county.png",
+       file = "../plots/2012_combined_percentages_by_county.png",
        type = "cairo-png")       
 
