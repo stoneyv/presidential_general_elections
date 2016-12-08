@@ -15,6 +15,10 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 * The images folder contains plots that were produced with the scripts or notebooks.
 
 <p align="center">
+  <img src="plots/2016_combined_percentages_by_county.png" width="360"/>
+  <img src="plots/2012_combined_percentages_by_county.png" width="360"/>
+</p>  
+<p align="center">
   <img src="plots/2016_rep_percentages_by_county.png" width="360"/>
   <img src="plots/2016_dem_percentages_by_county.png" width="360"/>
 </p>
@@ -22,10 +26,6 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
   <img src="plots/2012_rep_percentages_by_county.png" width="360"/>
   <img src="plots/2012_dem_percentages_by_county.png" width="360"/>
 </p> 
-<p align="center">
-  <img src="plots/2016_combined_percentages_by_county.png" width="360"/>
-  <img src="plots/2012_combined_percentages_by_county.png" width="360"/>
-</p>
 
 ## Data Sources
 
