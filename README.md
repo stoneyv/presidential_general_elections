@@ -14,6 +14,10 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 * The scripts folder contains R based code that produce plots.
 * The images folder contains plots that were produced with the scripts or notebooks.
 
+---
+
+## Plots
+
 <p align="center">
   <img src="plots/2016_combined_percentages_by_county.png" width="360"/>
   <img src="plots/2012_combined_percentages_by_county.png" width="360"/>
@@ -31,14 +35,9 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
   <img src="plots/2012_dem_percentages_by_county.png" width="360"/>
 </p> 
 
-## Data Sources
+___
 
-### Census 2010 FIPS
-https://www.census.gov/geo/reference/codes/cou.html
-http://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
-
-### Census shapefile  
-https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html  
+## Data Sources 
 
 ### Tony McGovern 2016 Presidential General Election (unofficial results)
 NOTE: Alaska vote entries for 2016 are currently repeated state totals. This will be resolved soon.  Also, Each secretary of state has a different date for official certification of elections which occurs before the electoral college vote in December.
@@ -60,6 +59,18 @@ https://catalog.data.gov/dataset/2004-presidential-general-election-county-resul
 ### David Lublin and D. Stephen Voss. 2001. "Federal Elections Project." American University, Washington, DC and the University of Kentucky, Lexington, KY.
 ### 2000 Election Data By State
 http://www.american.edu/spa/ccps/Data-Sets.cfm  
+
+
+### Census 2010 FIPS
+https://www.census.gov/geo/reference/codes/cou.html
+http://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
+
+### Census shapefile  
+https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html  
+
+___
+
+## Other Potential Data Sources
 
 ### The Guardian, Full US 2012 election county-level results
 https://www.theguardian.com/news/datablog/2012/nov/07/us-2012-election-county-results-download
