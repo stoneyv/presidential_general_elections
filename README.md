@@ -18,25 +18,13 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 
 ## Plots
 
-<p align="center">
-  <img src="plots/2016_combined_percentages_by_county.png" width="360"/>
-  <img src="plots/2012_combined_percentages_by_county.png" width="360"/>
-</p>  
-<p align="center">
-  <img src="plots/2008_combined_percentages_by_county.png" width="360"/>
-  <img src="plots/2004_combined_percentages_by_county.png" width="360"/>
-</p> 
-<p align="center">
-  <img src="plots/2000_combined_percentages_by_county.png" width="360"/>
-</p> 
-<p align="center">
-  <img src="plots/2016_rep_percentages_by_county.png" width="360"/>
-  <img src="plots/2016_dem_percentages_by_county.png" width="360"/>
-</p>
-<p align="center">
-  <img src="plots/2012_rep_percentages_by_county.png" width="360"/>
-  <img src="plots/2012_dem_percentages_by_county.png" width="360"/>
-</p> 
+| Year | % Votes by county | % Dem Votes by County | % Rep Votes by County |
+| --- | --- | --- | --- |
+| 2016 | <img src="plots/2016_combined_percentages_by_county.png" width="180"/> | <img src="plots/2016_dem_percentages_by_county.png" width="180"/> | <img src="plots/2016_rep_percentages_by_county.png" width="180"/> |
+| 2012 | <img src="plots/2012_combined_percentages_by_county.png" width="180"/> | <img src="plots/2012_dem_percentages_by_county.png" width="180"/> | <img src="plots/2012_rep_percentages_by_county.png" width="180"/> |
+| 2008 | <img src="plots/2008_combined_percentages_by_county.png" width="180"/> | | |
+| 2004 | <img src="plots/2004_combined_percentages_by_county.png" width="180"/> | | |
+| 2000 | <img src="plots/2000_combined_percentages_by_county.png" width="180"/> | | |
 
 ___
 
