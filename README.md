@@ -27,6 +27,9 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
   <img src="plots/2004_combined_percentages_by_county.png" width="360"/>
 </p> 
 <p align="center">
+  <img src="plots/2000_combined_percentages_by_county.png" width="360"/>
+</p> 
+<p align="center">
   <img src="plots/2016_rep_percentages_by_county.png" width="360"/>
   <img src="plots/2016_dem_percentages_by_county.png" width="360"/>
 </p>
