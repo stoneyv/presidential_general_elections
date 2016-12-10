@@ -40,7 +40,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,02005,02,AK,"State House District 5, Cordova-Southeast I",president,federal,4679,5439,491,44.1,51.3,4.6,10609
 2004,02001,02,AK,"State House District 1, Ketchikan",president,federal,3662,6303,452,35.2,60.5,4.3,10417
 2004,27077,27,MN,Lake of the Woods County,president,federal,921,1428,51,38.4,59.5,2.1,2400
-2004,53000,53,WA,,president,federal,,,,,,,
 2004,53073,53,WA,Whatcom County,president,federal,48268,40296,1830,53.4,44.6,2,90394
 2004,30105,30,MT,Valley County,president,federal,1431,2476,111,35.6,61.6,2.8,4018
 2004,30029,30,MT,Flathead County,president,federal,11587,26019,1072,30,67.3,2.8,38678
@@ -89,7 +88,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,53009,53,WA,Clallam County,president,federal,17049,18871,846,46.4,51.3,2.3,36766
 2004,38005,38,ND,Benson County,president,federal,1196,1002,48,53.3,44.6,2.1,2246
 2004,30015,30,MT,Chouteau County,president,federal,946,1913,62,32.4,65.5,2.1,2921
-2004,26000,26,MI,,president,federal,,,,,,,
 2004,53061,53,WA,Snohomish County,president,federal,156468,134317,4212,53,45.5,1.4,294997
 2004,30089,30,MT,Sanders County,president,federal,1502,3461,190,29.1,67.2,3.7,5153
 2004,27031,27,MN,Cook County,president,federal,1733,1489,81,52.5,45.1,2.5,3303
@@ -109,7 +107,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,30047,30,MT,Lake County,president,federal,4960,7245,371,39.4,57.6,3,12576
 2004,53063,53,WA,Spokane County,president,federal,87490,111606,3491,43.2,55.1,1.7,202587
 2004,27029,27,MN,Clearwater County,president,federal,1871,2438,52,42.9,55.9,1.2,4361
-2004,27000,27,MN,,president,federal,,,,,,,
 2004,16055,16,ID,Kootenai County,president,federal,17584,36173,839,32.2,66.3,1.5,54596
 2004,30033,30,MT,Garfield County,president,federal,52,590,13,7.9,90.1,2,655
 2004,27125,27,MN,Red Lake County,president,federal,963,1164,50,44.2,53.5,2.3,2177
@@ -153,7 +150,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,38043,38,ND,Kidder County,president,federal,433,902,34,31.6,65.9,2.5,1369
 2004,38093,38,ND,Stutsman County,president,federal,3438,6517,167,34,64.4,1.6,10122
 2004,38015,38,ND,Burleigh County,president,federal,11621,26577,616,29.9,68.5,1.6,38814
-2004,55000,55,WI,,president,federal,,,,,,,
 2004,38065,38,ND,Oliver County,president,federal,310,790,19,27.7,70.6,1.7,1119
 2004,26061,26,MI,Houghton County,president,federal,6731,8889,231,42.5,56.1,1.5,15851
 2004,53001,53,WA,Adams County,president,federal,1315,3751,61,25.6,73.2,1.2,5127
@@ -339,7 +335,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,46115,46,SD,Spink County,president,federal,1478,2259,37,39.2,59.9,1,3774
 2004,16085,16,ID,Valley County,president,federal,1843,2863,66,38.6,60,1.4,4772
 2004,46019,46,SD,Butte County,president,federal,1009,3166,96,23.6,74.1,2.2,4271
-2004,23000,23,ME,,president,federal,,,,,,,
 2004,55109,55,WI,Saint Croix County,president,federal,18784,22679,372,44.9,54.2,0.9,41835
 2004,55033,55,WI,Dunn County,president,federal,12039,10879,254,52,46.9,1.1,23172
 2004,26007,26,MI,Alpena County,president,federal,7407,7665,139,48.7,50.4,0.9,15211
@@ -359,7 +354,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,46093,46,SD,Meade County,president,federal,2941,8347,216,25.6,72.6,1.9,11504
 2004,55019,55,WI,Clark County,president,federal,6966,7966,193,46.1,52.7,1.3,15125
 2004,55115,55,WI,Shawano County,president,federal,8657,12150,192,41.2,57.9,0.9,20999
-2004,36000,36,NY,,president,federal,,,,,,,
 2004,50011,50,VT,Franklin County,president,federal,10598,8936,386,53.2,44.9,1.9,19920
 2004,50009,50,VT,Essex County,president,federal,1276,1591,70,43.4,54.2,2.4,2937
 2004,50013,50,VT,Grand Isle County,president,federal,2246,1754,77,55.1,43,1.9,4077
@@ -728,7 +722,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,31043,31,NE,Dakota County,president,federal,3027,3526,62,45.8,53.3,0.9,6615
 2004,36003,36,NY,Allegany County,president,federal,6566,12310,394,34.1,63.9,2,19270
 2004,36025,36,NY,Delaware County,president,federal,8724,11958,485,41.2,56.5,2.3,21167
-2004,42000,42,PA,,president,federal,,,,,,,
 2004,17085,17,IL,Jo Daviess County,president,federal,5311,6174,99,45.8,53.3,0.9,11584
 2004,36021,36,NY,Columbia County,president,federal,15929,14457,717,51.2,46.5,2.3,31103
 2004,17177,17,IL,Stephenson County,president,federal,8913,12212,195,41.8,57.3,0.9,21320
@@ -737,7 +730,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,17111,17,IL,McHenry County,president,federal,50330,76412,1206,39.3,59.7,0.9,127948
 2004,17007,17,IL,Boone County,president,federal,8286,11132,123,42.4,57,0.6,19541
 2004,17097,17,IL,Lake County,president,federal,134352,139081,1862,48.8,50.5,0.7,275295
-2004,17000,17,IL,,president,federal,,,,,,,
 2004,36039,36,NY,Greene County,president,federal,8933,12996,469,39.9,58,2.1,22398
 2004,26163,26,MI,Wayne County,president,federal,600047,257750,6931,69.4,29.8,0.8,864728
 2004,25025,25,MA,Suffolk County,president,federal,182592,54923,3130,75.9,22.8,1.3,240645
@@ -758,7 +750,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,31179,31,NE,Wayne County,president,federal,1059,2971,55,25.9,72.7,1.3,4085
 2004,25021,25,MA,Norfolk County,president,federal,199392,127763,3982,60.2,38.6,1.2,331137
 2004,25013,25,MA,Hampden County,president,federal,113710,70925,2004,60.9,38,1.1,186639
-2004,39000,39,OH,,president,federal,,,,,,,
 2004,25023,25,MA,Plymouth County,president,federal,125178,105603,2516,53.7,45.3,1.1,233297
 2004,19011,19,IA,Benton County,president,federal,6747,6658,96,50,49.3,0.7,13501
 2004,19113,19,IA,Linn County,president,federal,60442,49442,856,54.6,44.6,0.8,110740
@@ -852,7 +843,6 @@ YEAR,FIPS,STATE_FIPS,STATE_ABBR,COUNTY_NAME,OFFICE,LEVEL,VOTES_DEM,VOTES_REP,VOT
 2004,44003,44,RI,Kent County,president,federal,42830,33699,1313,55,43.3,1.7,77842
 2004,18039,18,IN,Elkhart County,president,federal,17966,42967,447,29.3,70,0.7,61380
 2004,18141,18,IN,Saint Joseph County,president,federal,52637,55254,728,48.5,50.9,0.7,108619
-2004,18000,18,IN,,president,federal,,,,,,,
 2004,18091,18,IN,LaPorte County,president,federal,21114,20916,576,49.6,49.1,1.4,42606
 2004,18151,18,IN,Steuben County,president,federal,4345,8433,127,33.7,65.3,1,12905
 2004,18087,18,IN,LaGrange County,president,federal,2523,6430,50,28,71.4,0.6,9003
