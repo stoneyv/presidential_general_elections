@@ -17,13 +17,13 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 
 ---
 
-| Year | % Votes</p>by County | % Dem Votes</p>by County | % Rep Votes</p>by County | csv file |
-| --- | --- | --- | --- | --- |
-| __2016__ | <img src="plots/2016_combined_percentages_by_county.png" width="100"/> | <img src="plots/2016_dem_percentages_by_county.png" width="100"/> | <img src="plots/2016_rep_percentages_by_county.png" width="100"/> | <a href="https://github.com/stoneyv/presidential_general_elections/blob/master/output/2016_pres_election_by_county.csv" download>csv file</a> |
-| __2012__ | <img src="plots/2012_combined_percentages_by_county.png" width="100"/> | <img src="plots/2012_dem_percentages_by_county.png" width="100"/> | <img src="plots/2012_rep_percentages_by_county.png" width="100"/> | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2012_pres_election_by_county.csv) |
-| __2008__ | <img src="plots/2008_combined_percentages_by_county.png" width="100"/> | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2008_pres_election_by_county.csv) |
-| __2004__ | <img src="plots/2004_combined_percentages_by_county.png" width="100"/> | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2004_pres_election_by_county.csv) |
-| __2000__ | <img src="plots/2000_combined_percentages_by_county.png" width="100"/> | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2000_pres_election_by_county.csv) |
+| Year | % Votes</p>by County | % Dem Votes</p>by County | % Rep Votes</p>by County | % Voter participation</p>by State | csv file |
+| --- | :---: | :---: | :---: | :---: | --- |  
+| __2016__ | <img src="plots/2016_combined_percentages_by_county.png" width="100"/> | <img src="plots/2016_dem_percentages_by_county.png" width="100"/> | <img src="plots/2016_rep_percentages_by_county.png" width="100"/> | <img src="plots/2016_voter_turnout.png" width="100"/> | <a href="https://github.com/stoneyv/presidential_general_elections/blob/master/output/2016_pres_election_by_county.csv" download>csv file</a> |
+| __2012__ | <img src="plots/2012_combined_percentages_by_county.png" width="100"/> | <img src="plots/2012_dem_percentages_by_county.png" width="100"/> | <img src="plots/2012_rep_percentages_by_county.png" width="100"/> | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2012_pres_election_by_county.csv) |
+| __2008__ | <img src="plots/2008_combined_percentages_by_county.png" width="100"/> | | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2008_pres_election_by_county.csv) |
+| __2004__ | <img src="plots/2004_combined_percentages_by_county.png" width="100"/> | | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2004_pres_election_by_county.csv) |
+| __2000__ | <img src="plots/2000_combined_percentages_by_county.png" width="100"/> | | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2000_pres_election_by_county.csv) |
 
 ___
 
