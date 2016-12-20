@@ -51,9 +51,7 @@ https://catalog.data.gov/dataset/2004-presidential-general-election-county-resul
 http://www.american.edu/spa/ccps/Data-Sets.cfm  
 
 ### Associate Professor Dr Michael McDonald, "United States Election Project" Department of Political Science, University of Florida
-http://www.electproject.org/home/voter-turnout/voter-turnout-data
-http://www.electproject.org/2016g
-https://docs.google.com/spreadsheets/d/1VAcF0eJ06y_8T4o2gvIL4YcyQy8pxb1zYkgXF76Uu1s/edit#gid=2030096602
+http://www.electproject.org/home/voter-turnout/voter-turnout-data  
 
 ### Census 2010 FIPS
 https://www.census.gov/geo/reference/codes/cou.html
