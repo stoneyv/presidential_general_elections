@@ -20,8 +20,8 @@ git clone https://github.com/stoneyv/presidential_general_elections.git
 | Year | % Votes</p>by County | % Dem Votes</p>by County | % Rep Votes</p>by County | % Voter participation</p>by State | csv file |
 | --- | :---: | :---: | :---: | :---: | --- |  
 | __2016__ | <img src="plots/2016_combined_percentages_by_county.png" width="100"/> | <img src="plots/2016_dem_percentages_by_county.png" width="100"/> | <img src="plots/2016_rep_percentages_by_county.png" width="100"/> | <img src="plots/2016_voter_turnout.png" width="100"/> | <a href="https://github.com/stoneyv/presidential_general_elections/blob/master/output/2016_pres_election_by_county.csv" download>csv file</a> |
-| __2012__ | <img src="plots/2012_combined_percentages_by_county.png" width="100"/> | <img src="plots/2012_dem_percentages_by_county.png" width="100"/> | <img src="plots/2012_rep_percentages_by_county.png" width="100"/> | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2012_pres_election_by_county.csv) |
-| __2008__ | <img src="plots/2008_combined_percentages_by_county.png" width="100"/> | | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2008_pres_election_by_county.csv) |
+| __2012__ | <img src="plots/2012_combined_percentages_by_county.png" width="100"/> | <img src="plots/2012_dem_percentages_by_county.png" width="100"/> | <img src="plots/2012_rep_percentages_by_county.png" width="100"/> | <img src="plots/2012_voter_turnout.png" width="100"/> | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2012_pres_election_by_county.csv) |
+| __2008__ | <img src="plots/2008_combined_percentages_by_county.png" width="100"/> | | | <img src="plots/2008_voter_turnout.png" width="100"/> | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2008_pres_election_by_county.csv) |
 | __2004__ | <img src="plots/2004_combined_percentages_by_county.png" width="100"/> | | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2004_pres_election_by_county.csv) |
 | __2000__ | <img src="plots/2000_combined_percentages_by_county.png" width="100"/> | | | | [csv file](https://github.com/stoneyv/presidential_general_elections/blob/master/output/2000_pres_election_by_county.csv) |
 
@@ -50,12 +50,20 @@ https://catalog.data.gov/dataset/2004-presidential-general-election-county-resul
 ### 2000 Election Data By State
 http://www.american.edu/spa/ccps/Data-Sets.cfm  
 
+### Associate Professor Dr Michael McDonald, "United States Election Project" Department of Political Science, University of Florida
+http://www.electproject.org/home/voter-turnout/voter-turnout-data
+http://www.electproject.org/2016g
+https://docs.google.com/spreadsheets/d/1VAcF0eJ06y_8T4o2gvIL4YcyQy8pxb1zYkgXF76Uu1s/edit#gid=2030096602
+
 ### Census 2010 FIPS
 https://www.census.gov/geo/reference/codes/cou.html
 http://www2.census.gov/geo/docs/reference/codes/files/national_county.txt
 
 ### Census 2015,2013,2010,2000 shapefiles 
 https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html  
+
+### Census ACS5 2009 through 2015 (American Community Survey 5 year API)
+http://www.census.gov/data/developers/data-sets/acs-5year.html  
 
 ___
 
@@ -85,11 +93,6 @@ https://github.com/openelections
 
 ### Library of Congress, US Election Statistics
 https://www.loc.gov/rr/program/bib/elections/statistics.html
-
-### electproject, Voter Turnout
-http://www.electproject.org/home/voter-turnout/voter-turnout-data
-http://www.electproject.org/2016g
-https://docs.google.com/spreadsheets/d/1VAcF0eJ06y_8T4o2gvIL4YcyQy8pxb1zYkgXF76Uu1s/edit#gid=2030096602
 
 ### Census voter demographics by region 2004,2008,2012,2014
 2014  
