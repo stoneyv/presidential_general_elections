@@ -1,4 +1,4 @@
-# Presidential General Elections 2000 through 2016 
+# US Presidential General Elections 2000 through 2016 
 
 To get the transformed data and scripts
 ```bash
@@ -36,14 +36,15 @@ NOTE: Alaska vote entries for 2016 are currently repeated state totals. This wil
 * https://www.elections.alaska.gov/index.php
 
 ### USGS 2012 Presidential General Election
-County Results
+County Results  
 https://catalog.data.gov/dataset/presidential-general-election-results-2012-direct-download
 
 ### USGS 2008 Presidential General Election
-County Results
+County Results  
 https://catalog.data.gov/dataset/2008-presidential-general-election-county-results-direct-download
 
-### USGS 2004 Presidential General Election  
+### USGS 2004 Presidential General Election 
+County Results  
 https://catalog.data.gov/dataset/2004-presidential-general-election-county-results-direct-download  
 
 ### David Lublin and D. Stephen Voss. 2001. "Federal Elections Project." American University, Washington, DC and the University of Kentucky, Lexington, KY.
